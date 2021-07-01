@@ -1,7 +1,7 @@
 # Microcontroller_Project_Links
 
 Links to videos demonstrating microprocssor projects Daija created at Florida Atlantic University.  
-These projects demonstrate MSP430 Microcontrollers were programmed using C/C++.
+These projects demonstrate MSP430 Microcontrollers were programmed using C/C++.  
 Each video shows Daija explaining and displaying the documentation for the project and how the sensors were coded,  
 and shows Daija demostrating the completed, fully functioning projects.  
 
