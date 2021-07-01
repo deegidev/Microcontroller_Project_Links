@@ -6,6 +6,7 @@ and shows Daija demostrating the project working according to the specified deta
 
 MSP 430 Timers: https://youtu.be/xkYtaXf3CMk
 Description: Microcontroller blinks based on timers and interrupts.  
+
 Language Used: C/C++.
 Video Time: 7:19 min.
 Uploaded: Nov 1, 2018.
