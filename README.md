@@ -5,8 +5,8 @@ Here, MSP430 Microcontrollers were programmed using C/C++.
 The videos show Daija explaining and displaying the documentation for the project and how the sensors were coded,
 and shows Daija demostrating the project working according to the specified details. 
 
-MSP 430 Timers: https://youtu.be/xkYtaXf3CMk
-Description: Microcontroller blinks based on timers and interrupts\ 
+MSP 430 Timers: https://youtu.be/xkYtaXf3CMk  
+Description: Microcontroller blinks based on timers and interrupts  
 Language Used: C/C++.
 Video Time: 7:19 min.
 Uploaded: Nov 1, 2018.
