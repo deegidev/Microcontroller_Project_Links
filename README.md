@@ -2,8 +2,8 @@
 
 Links to videos demonstrating microprocssor projects Daija created at Florida Atlantic University.  
 These projects demonstrate MSP430 Microcontrollers were programmed using C/C++.
-The videos show Daija explaining and displaying the documentation for the project and how the sensors were coded,
-and shows Daija demostrating the completed, fully functioning projects. 
+Each video shows Daija explaining and displaying the documentation for the project and how the sensors were coded,  
+and shows Daija demostrating the completed, fully functioning projects.  
 
 MSP 430 Timers: https://youtu.be/xkYtaXf3CMk  
 Description: Microcontroller blinks based on timers and interrupts  
